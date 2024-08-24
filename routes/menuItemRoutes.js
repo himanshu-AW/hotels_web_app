@@ -68,6 +68,7 @@ router.post('/',async (req,res) => {
     }
   })
 
+  // delete method for menu items
   router.delete('/:id', async(req, res)=>{
     try{
       const menuId = req.params.id;

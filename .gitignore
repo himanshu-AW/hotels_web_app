@@ -1,0 +1,4 @@
+# Igonre node_modules directory
+node_modules/
+
+#other entries
